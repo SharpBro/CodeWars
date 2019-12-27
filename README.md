@@ -1,3 +1,3 @@
 # CodeWars
 
-This project contains some Codewars' solutions I wrote during this year. 
+This project contains some solutions to Codewars problems I wrote during this year. 
